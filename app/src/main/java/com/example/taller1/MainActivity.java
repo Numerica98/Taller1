@@ -16,7 +16,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        boton1 = findViewById(R.id.boton_entran);
+        boton2 = findViewById(R.id.boton_salen);
+        texto1 = findViewById(R.id.texto_entran);
+        texto1 = findViewById(R.id.texto_entran);
+        cont1 = 0;
+        cont2 = 0;
 
-
+        
     }
 }
