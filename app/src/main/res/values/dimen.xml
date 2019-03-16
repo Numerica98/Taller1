@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_dimen">0dp</dimen>
+    <dimen name="medium_dimen">35dp</dimen>
+    <dimen name="smallm_dimen">25dp</dimen>
+    <dimen name="bigm_dimen">55dp</dimen>
+    <dimen name="bigm_dimen_text">55sp</dimen>
+    <dimen name="smallm_dimen_text">25sp</dimen>
+    <dimen name="medium_dimen_text">35sp</dimen>
+    <dimen name="dimen_65">65dp</dimen>
+</resources>

@@ -2,4 +2,6 @@
     <string name="app_name">Taller1</string>
     <string name="text_entran">Entran</string>
     <string name="text_salen">Salen</string>
+    <string name="text_cero">0</string>
+    <string name="text_add">add</string>
 </resources>
